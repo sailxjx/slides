@@ -1,3 +1,3 @@
 [submodule "Strut"]
 	path = Strut
-	url = git://github.com/tantaman/Strut.git
+	url = git@github.com:sailxjx/Strut.git 
